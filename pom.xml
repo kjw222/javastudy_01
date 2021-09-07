@@ -43,5 +43,6 @@
 	</build>
   <modules>
   	<module>practice1</module>
+  	<module>chapter03</module>
   </modules>
 </project>
